@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.banner-image {
+  background-image: url(/assets/img/background.svg);
+  background-size: cover;
+  background-color: bisque;
+}
+
+section.main {
+  margin: 5rem 0;
+}
